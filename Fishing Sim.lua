@@ -140,7 +140,7 @@ Section7:NewToggle("KillOrca", "KillOrca", function(KOO)
     end
 end)
 
-Section7:NewToggle("AutoSell", "AutoSell", function(ASS)
+Section7:NewToggle("AutoSell (For KillShark)", "AutoSell", function(ASS)
     if ASS then
         AS = true
         while AS == true do
