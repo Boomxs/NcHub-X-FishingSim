@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Boomxs/NcHub/main/Main"))()
-local Window = Library.CreateLib("Nc Hub X Reunion TEam Fishsim V1.0", LightTheme)
+local Window = Library.CreateLib("Nc Hub X Reunion TEam Fishsim V1.0", "LightTheme")
 
 local prevLocation
 local KS = false
